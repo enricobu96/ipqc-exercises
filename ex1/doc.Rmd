@@ -1,0 +1,18 @@
+---
+title: "Learning Diary: Lecture 1"
+author: "Enrico Buratto"
+date: "22/01/2022"
+output: pdf_document
+---
+
+# Reasons and expectations for the course
+
+The reasons I am taking this course are mainly two. First of all, I have always been interested in different programming paradigms (e.g. precedural programming, OOP, functional programming); this is, of course, not directly related to the topics we will see, but I think that Quantum Computing is a radically different paradigm with respects to the general way of thinking of a computer program. From this perspective, programming of quantum computers could not be outside of my personal interests as a curious person.
+
+Secondly, even if I know that quantum computers are still on its embryonic state, I hope that it can be useful for my future work. I'm building a curricula strongly focused on Machine and Deep Learning; from a neophyte point of view, I hope that the possibly-huge power of quantum computers can be used in the future for "standard" resource intensive tasks such as neural networks training.
+
+Coming to the expectations, I hope that after this course I will at least be able to understand a program (or some code) for quantum computers; moreover, even if this course is not focused on the functioning of quantum computers, I hope that understanding their programs will help me in the future if I will want to deepen the topic. Anyway, the only reasonable expectations I have are to learn how to read, write and execute some simple code for quantum computers, as stated in the course syllabus.
+
+# Visions of the quantum computing growth and future
+
+Talking about the future of quantum computing I think, as the authors of the course's book say, that it will be useful to solve difficult problems we always had as computer scientists (for instance, cryptography-related problems or non polynomial problems), but quantum computers will not be used as "daily driver" computers. In the next future I believe it will be (and actually, from what I got from the first lecture and the book, is) like it was for normal binary computers in the past decades: a few big and powerful mainframes used for only some specialized tasks. The only difference I can see is that, while in 50s-60s the computers were guided by human beings, quantum computers can possibly be guided by actual standard computers in an automated fashion. If I may bring an example, a standard computer could have to solve a long and complicated task that includes some operations that it cannot solve in a reasonable amount of time (such as, for instance, a SAT or a Traveling Salesman problem); it could then run the program locally and use a quantum computer to solve the particularly difficult problem, improving then the possibilities of which programs could be created.

@@ -1,0 +1,18 @@
+---
+title: "Homework 8"
+author: "Enrico Buratto"
+date: "28/03/2022"
+output: pdf_document
+---
+
+# My impressions on Teppo's lecture
+
+First of all, let me start saying that I found the lecture very interesting; I appreciated the presentation of IBM and I'm personally very impressed by how much this company is involved into research and development. I find interesting that the company that has been the pioneer of modern technology is now studying what I think it's the future technology.
+
+Coming to the lecture contents, I found first of all interesting, yet already saw during the course (especially during the first lecture), the fact that one of the main purposes of quantum computers is not effectively only speed up the computation, but that they allow the computation of problems which are not possible to solve with traditional computers. This made me think also about the sixth lecture of the course, when we saw that the n-SAT problem, which is NP-complete and therefore exponential to be solved in the size of variables, with quantum computers is a problem that can be solved in a linear time. This also links, in my opinion, to the comparison that Teppo did on the size that is needed to represent information with bits and qubits: also in this case, in fact, the number of bits seems to be exponential to the number of qubits, and I believe the same applies to the computational power. As also said other times during this course, this can be both the future of the computation and a big challenge: for instance, NP-complete problems are where modern cryptography lays its foundations.
+
+Another interesting fact that I learnt, which I didn't know, is the physical size of qubits: in comparison with modern transistors, the size of qubits is huge, even considering the smallest part that is the junction. At a first glance, this made me think about the future challenges; to be more specific, I wondered if the size of the qubits can also be related to the efficiency of the system, as happens with standard transistors and bits. However, this first thought has been cleared by Teppo when he said that actually modern qubits are not really energy consuming, but the real power consumption comes from the cooling system. Even I don't have a physics background, I believe that the size of the qubits don't really matter in terms of performance and efficiency; however, this makes me want to deepen the understanding of the subject.
+
+A final consideration I have is on the speed at which the number of qubits in a circuit is increasing: the evolution of quantum computers resembles, in my opinion, the evolution that standard binary computers had. At the very beginning of this research field, in fact, the number of qubits was very small, as it was for the first valve-driven computers, but these last years the number of qubits seems to be increasing exponentially. This made me think about Moore's law, which we also talked about in the first lecture.
+
+In conclusion, I don't think I've learnt something crucial during this lecture, but it has been really useful even just for the fact that it made me want to study more this field.

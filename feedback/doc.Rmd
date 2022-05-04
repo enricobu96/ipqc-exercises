@@ -1,0 +1,35 @@
+---
+title: "Course feedback"
+author: "Enrico Buratto"
+date: "04/05/2022"
+output: pdf_document
+---
+
+# What I learned
+
+During this course I learned the main principles of quantum computers programming; these are:
+
+- How qubit works, at least from a high-level perspective and not from a physical one;
+- How to deal with qubits, _i.e._ single and multiqubit (basic) operations;
+- Entanglement and a bit of quantum teleportation, still from an high-level perspective;
+- How to deal with simple arithmetic and logic when it comes to qubits;
+- Amplitude amplification and phase logic;
+- More sophisticated concepts like QFT.
+
+I've also learned how to read and write some simple code for quantum computers, mainly using QCEngine and IBM Qiskit.
+
+Moreover, with the project I've acknowledged how Quantum Support Vector Machines works from a high-level perspective; doing this, I've also read about Quantum Simulation and the HHL algorithm.
+
+Finally, from a less in-depth perspective I would say that now I have a clearer idea on the point we are with quantum computers design and what is the future of quantum computing.
+
+# What I didn't learn
+
+As I wrote in the first learning diary, I didn't expect to learn the physical concepts behind quantum computer, as they were not included in the course syllabus. I would say that this expectation has been respected, since we didn't see basically any physical concepts, but honestly I'm totally fine with this since I'm not a physics student and I would have probably had a hard time in undertanding these notions.
+
+Apart from this, I would say that all my other expectation was respected, as we covered the entire course program. However, I feel that I'm still unconfortable with some sophisticated concepts like quantum teleportation, and this reflected in the assignment from the lecture, in which I got a low grade. Anyway, even though these concepts are still not much clear to me, this course left me the desire to learn more about it.
+
+# For the next edition
+
+For the next edition I would keep almost everything we did during the course; I feel that the least useful lecture we had was the visiting lecture from Teppo Seesto, since we actually didn't learn any new concepts. I would, however, keep also this since I believe it makes students to want to deepen the subject, as I also stated in Homework 9. In conclusion, I would not drop anything.
+
+On the other hand, I think that some other work can be included in the course, maybe cutting the first lectures times; personally, I would try to include also how to deal with real data (Chapter 9 in Johnston et al. book), as I believe this topic is interesting and useful for almost every topic for the course's project.
